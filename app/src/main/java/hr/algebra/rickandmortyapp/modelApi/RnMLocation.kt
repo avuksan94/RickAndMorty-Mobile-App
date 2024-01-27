@@ -1,0 +1,8 @@
+package hr.algebra.rickandmortyapp.modelApi
+
+import com.google.gson.annotations.SerializedName
+
+data class RnMLocation(
+    @SerializedName("name") val name: String,
+    @SerializedName("url") val url: String
+)

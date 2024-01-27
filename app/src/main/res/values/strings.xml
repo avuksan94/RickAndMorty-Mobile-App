@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RickNMortyApp</string>
+    <string name="please_wait">Please wait</string>
+    <string name="no_internet">No internet...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_made_by_av2024">Made by Ante Vuksan for IAMU project 2023/2024</string>
+    <string name="characters">Characters</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="really_exit">Really exit?</string>
+    <string name="cancel">Cancel</string>
+    <string name="status">Status</string>
+    <string name="title">Title</string>
+    <string name="gender">Gender</string>
+    <string name="type">Type</string>
+    <string name="characterName">Character name</string>
+</resources>
